@@ -1,5 +1,6 @@
-# Ryan Arana's take on the Blinks theme - https://github.com/cadetZemm/zemm-blinks.zsh-theme
-# Original Blinks theme is here: https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/blinks.zsh-theme
+# Jamey DeOrio's take on Ryan Arana's take on the Blinks theme
+# zemm-blinks theme - https://github.com/cadetZemm/zemm-blinks.zsh-theme
+# Original Blinks theme - https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/blinks.zsh-theme
 
 function _prompt_char() {
   if $(git rev-parse --is-inside-work-tree >/dev/null 2>&1); then
