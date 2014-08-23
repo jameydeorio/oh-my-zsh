@@ -15,7 +15,7 @@ ZSH_THEME_HG_PROMPT_CLEAN=""
 
 PROMPT='%{%f%k%b%}
 %F{red}[%F{yellow}%n%F{green}@%F{blue}%m %F{magenta}%~%F{red}]%}$reset_color $(_prompt_info)
- 🌈  '
+ 🌈  🐝  🌸  '
 
 RPROMPT='%{%B%F{blue}%}%@ - %D{%A, %B %d, %Y}%{%f%k%b%}'
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[black]%}‹%{$reset_color%}"
