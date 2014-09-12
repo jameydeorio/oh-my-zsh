@@ -1,4 +1,4 @@
-# zsh rainbow theme with git integration
+# zsh rainbow-summer theme with git integration
 # use this to change your command-line life :)
 # jameydeorio
 
